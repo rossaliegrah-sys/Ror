@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Don’t Use Random Links</title>
+  <style>
+    body {
+      background-color: black;
+      color: red;
+      text-align: center;
+      font-family: Arial, sans-serif;
+      margin-top: 100px;
+    }
+    h1 {
+      font-size: 50px;
+      text-shadow: 2px 2px 8px #ff0000;
+    }
+    img, video {
+      max-width: 80%;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>⚠ Don’t Use Random Links ⚠</h1>
+  <!-- Add a picture -->
+  <img src="your-picture.jpg" alt="Warning">
+  
+  <!-- Or add a video instead -->
+  <!--
+  <video autoplay loop controls>
+    <source src="your-video.mp4" type="video/mp4">
+    Your browser does not support video.
+  </video>
+  -->
+</body>
+</html>
